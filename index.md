@@ -108,7 +108,7 @@ Studies*, and *Quarterly Journal of Finance* (China).
   (2025–2027): "Matching Equilibrium in Venture Capital: Theory,
   Frictions, and Consequences"
 - National Social Science Fund of China, Later-Stage Funding Project
-  (2020–2022): "Matching Structure Theory in Venture Capital Markets"
+  (2020–2022): "A Structural Matching Theory for Venture Capital Market"
 - National Natural Science Foundation of China, Young Scientists Fund
   (2020–2022): completed with an "Excellent" final rating
 - Ministry of Education of China, Humanities and Social Sciences
