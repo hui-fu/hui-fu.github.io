@@ -53,7 +53,7 @@ connecting academia and the investment community.
 ## Education
 
 - Ph.D. in Finance, Jinan University, Guangzhou, China, 2015
-- M.A. in Quantitative Economics, Yunnan University of Finance and Economics, Kunmin, China, 2012
+- M.A. in Quantitative Economics, Yunnan University of Finance and Economics, Kunming, China, 2012
 - B.S. in Mathematics and Applied Mathematics, Zhejiang Gongshang University, Hangzhou, China, 2009
 
 ## Selected Publications (English)
