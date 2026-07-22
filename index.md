@@ -21,10 +21,11 @@ Journal of Management*, *Small Business Economics*,
 Economics and Finance*, among others.
 
 I lead the Technology Finance Research Team at the School of
-Business, and I am a co-founder and co-organizer of the **Great
-Lake Finance Forum** (co-founded with Prof. Tong Yu, University of
-Cincinnati), an annual conference connecting academia and the
-investment community in the Taihu Lake region.
+Business, and I am a co-founder and co-organizer—alongside 
+Prof. Tong Yu from the University of Cincinnati—of the **Great
+Lake Finance Forum**, an annual conference connecting academia 
+and the investment community in China's Yangtze River Delta 
+(Taihu Lake region).
 
 ## Research Interests
 
@@ -115,8 +116,8 @@ Studies*, and *Quarterly Journal of Finance* (China).
   Risk Society International
 - Reviewer for *British Journal of Management*, *Pacific-Basin Finance
   Journal*, *International Review of Economics and Finance*,
-  *Emerging Markets Finance and Trade*, *North American Journal of
-  Economics and Finance*, and leading Chinese journals
+  * International Review of Financial Analysis*, *Emerging Markets Finance
+   and Trade*, and leading Chinese journals
 - Grant Reviewer, National Natural Science Foundation of China
 
 ## Links
