@@ -35,7 +35,7 @@ Economics & Finance*, among others. My ongoing work develops
 a comprehensive transaction-level database of China's venture 
 capital market.
 
-I lead the Sci-Tech Finance Research Team at the School of
+I lead the Technology Finance Research Team at the School of
 Business. Together with Prof. Tong Yu (University of Cincinnati), 
 I co-founded and co-organize the **Great Lake Finance Forum**—named 
 after Lake Taihu (literally "Great Lake"), on whose shores the university 
