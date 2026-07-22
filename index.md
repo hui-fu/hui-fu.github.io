@@ -3,7 +3,7 @@ title: "Hui Fu (付辉), Ph.D."
 ---
 
 <style>
-  .page-header, .site-header, .masthead, header.header { display: none; }
+  .markdown-body > h1:first-child { display: none; }
 </style>
 
 # Hui Fu (付辉), Ph.D.
