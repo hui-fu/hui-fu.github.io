@@ -71,13 +71,13 @@ connecting academia and the investment community.
 4. Fu, H., Liu, Q., An, Y., Yang, J., & Xiong, H. (2025). Exit
    disruption and matching in venture capital markets: Evidence based
    on IPO suspensions in China. *International Review of Economics
-   & Finance*, 98(3), 103850.
+   & Finance*, 98, 103850.
 5. Sun, Y., & Fu, H. (corresponding author) (2025). Economic policy
    uncertainty and herding behavior in venture capital market:
-   Evidence from China. *Pacific-Basin Finance Journal*, 92(9), 102803.
+   Evidence from China. *Pacific-Basin Finance Journal*, 92, 102803.
 6. Fu, H., Qi, H., & An, Y. (2024). When do venture capital and
    startups team up? Matching matters. *Pacific-Basin Finance
-   Journal*, 85(4), 102361.
+   Journal*, 85, 102361.
 7. Qi, H., Fu, H. (corresponding author), Yang, J., & Ai, W. (2024).
    Economic policy uncertainty and syndication: Evidence from China's
    venture capital market. *Emerging Markets Finance and Trade*,
@@ -96,8 +96,8 @@ Studies*, and *Quarterly Journal of Finance* (China).
 
 ## Books
 
-- *Matching Structure in Venture Capital Markets: Theory and
-  Evidence* (in Chinese). Shanghai Joint Publishing Company, 2023.
+- *A Structural Matching Theory for Venture Capital Market* (in Chinese).
+  Shanghai Joint Publishing Company, 2023.
   (sole-authored monograph)
 - *Corporate Finance* (in Chinese). Economic Science Press, 2024.
   (sole-authored textbook)
