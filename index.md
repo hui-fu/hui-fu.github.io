@@ -4,7 +4,7 @@ Associate Professor of Finance
 School of Business, Jiangnan University
 1800 Lihu Avenue, Wuxi, Jiangsu 214122, China
 
-Email: hui_fu@hotmail.com | fuhui@jiangnan.edu.cn
+Email: fuhui@jiangnan.edu.cn | hui_fu@hotmail.com
 
 ---
 
@@ -111,12 +111,12 @@ Studies*, and *Quarterly Journal of Finance* (China).
 
 ## Academic Service
 
-- Co-founder and Co-Organizer, Great Lake Finance Forum, Wuxi (2025– )
+- Co-founder and Co-organizer, Great Lake Finance Forum, Wuxi, China (2025– )
 - Member, Program Committee and Technology Committee, The Modern
   Risk Society International
 - Reviewer for *British Journal of Management*, *Pacific-Basin Finance
   Journal*, *International Review of Economics and Finance*,
-  * International Review of Financial Analysis*, *Emerging Markets Finance
+  *International Review of Financial Analysis*, *Emerging Markets Finance
    and Trade*, and leading Chinese journals
 - Grant Reviewer, National Natural Science Foundation of China
 
