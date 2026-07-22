@@ -1,46 +1,130 @@
-# Hui Fu, Ph.D.
+# Hui Fu (付辉), Ph.D.
 
 Associate Professor of Finance
 School of Business, Jiangnan University
-Wuxi, China
+1800 Lihu Avenue, Wuxi, Jiangsu 214122, China
 
-Email: hui_fu@hotmail.com, fuhui@jiangnan.edu.cn
+Email: hui_fu@hotmail.com | fuhui@jiangnan.edu.cn
 
 ---
 
 ## About
 
-I am a finance scholar at the School of Business, Jiangnan University.
-My research focuses on venture capital, FinTech, and coporate finance. 
-I lead the FinTech Research Team at the School of
-Business and serve as a co-organizer of the Great Lake Finance Forum, an
-annual conference connecting academia and the investment community
-in the Taihu Lake region.
+I am an Associate Professor of Finance at the School of Business,
+Jiangnan University. I received my Ph.D. in Finance from Jinan
+University (Guangzhou). My research centers on venture capital,
+with a focus on two-sided matching, contract design, and how
+capital markets shape VC behavior and exit performance. My work
+has appeared in the *Journal of Banking and Finance*, *British
+Journal of Management*, *Small Business Economics*,
+*Pacific-Basin Finance Journal*, and *International Review of
+Economics and Finance*, among others.
+
+I lead the Technology Finance Research Team at the School of
+Business, and I am a co-founder and co-organizer of the **Great
+Lake Finance Forum** (co-founded with Prof. Tong Yu, University of
+Cincinnati), an annual conference connecting academia and the
+investment community in the Taihu Lake region.
 
 ## Research Interests
 
-- Venture Capital and Private Equity
-- FinTech and Digital Finance
-- Health Industry Finance
+- Venture Capital and Private Equity (matching, contracts, syndication, exit)
+- Entrepreneurial Finance and Technology Finance
+- Corporate Finance
 - Revenue-Based Financing Contracts
+- Long Memory in Financial Time Series
 
-## Selected Publications & Working Papers
+## Education
 
-- [Paper title], *Journal Name*, Year. [DOI link]
-- [Paper title], *Journal Name*, Year. [DOI link]
-- [Working paper title], available at SSRN. [link]
+- Ph.D. in Finance, Jinan University, Guangzhou, 2015
+- M.A. in Quantitative Economics, Yunnan University of Finance and Economics, 2012
+- B.S. in Mathematics and Applied Mathematics, Zhejiang Gongshang University, 2009
+
+## Selected Publications (English)
+
+1. Fu, H., Yang, J., & An, Y. (2019). Made for each other: Perfect
+   matching in venture capital markets. *Journal of Banking and
+   Finance*, 100(3), 346–358.
+2. Fu, H., Qi, Y., An, Y., & Zhang, M. (2023). Market capacity,
+   information exchange and imperfect matching: Evidence from the
+   Chinese venture capital market. *British Journal of Management*,
+   34(4), 1869–1894.
+3. Fu, H., Yang, J., & An, Y. (2019). Contracts for venture capital
+   financing with double-sided moral hazard. *Small Business
+   Economics*, 53(1), 129–144.
+4. Fu, H., Liu, Q., An, Y., Yang, J., & Xiong, H. (2025). Exit
+   disruption and matching in venture capital markets: Evidence based
+   on IPO suspensions in China. *International Review of Economics
+   and Finance*, 98(3), 103850.
+5. Sun, Y., & Fu, H. (corresponding author) (2025). Economic policy
+   uncertainty and herding behavior in venture capital market:
+   Evidence from China. *Pacific-Basin Finance Journal*, 92(9), 102803.
+6. Fu, H., Qi, H., & An, Y. (2024). When do venture capital and
+   startups team up? Matching matters. *Pacific-Basin Finance
+   Journal*, 85(4), 102361.
+7. Qi, H., Fu, H. (corresponding author), Yang, J., & Ai, W. (2024).
+   Economic policy uncertainty and syndication: Evidence from China's
+   venture capital market. *Emerging Markets Finance and Trade*,
+   60(14), 3431–3457.
+8. Fu, H., Song, Y., Xu, X., An, Y., & Yang, J. (2026).
+   Economic policy uncertainty and matching in venture capital
+   markets: Evidence from China. *Emerging Markets Finance and Trade*,
+   62(10), 3771–3788.
+9. Fu, H., Chen, W., & He, X. (2018). On a class of estimation and
+   test for long memory. *Physica A: Statistical Mechanics and its
+   Applications*, 509(11), 906–920.
+
+I have also published over ten papers in leading Chinese journals,
+including *Journal of Finance and Economics*, *Nankai Economic
+Studies*, and *Quarterly Journal of Finance* (China).
+
+## Books
+
+- *Matching Structure in Venture Capital Markets: Theory and
+  Evidence* (in Chinese). Shanghai Joint Publishing Company, 2023.
+  (sole-authored monograph)
+- *Corporate Finance* (in Chinese). Economic Science Press, 2024.
+  (sole-authored textbook)
+
+## Research Grants (as Principal Investigator)
+
+- National Social Science Fund of China, Later-Stage Funding Project
+  (2025–2027): "Matching Equilibrium in Venture Capital: Theory,
+  Frictions, and Consequences"
+- National Social Science Fund of China, Later-Stage Funding Project
+  (2020–2022): "Matching Structure Theory in Venture Capital Markets"
+- National Natural Science Foundation of China, Young Scientists Fund
+  (2020–2022): completed with an "Excellent" final rating
+- Ministry of Education of China, Humanities and Social Sciences
+  Youth Fund (2018–2021)
+
+## Selected Honors
+
+- Best Paper Nomination Award (Finance), 3rd PwC China 3535 Forum, 2022
+- Third Prize, Jiangsu Provincial Outstanding Achievement Award in
+  Philosophy and Social Sciences, 2016
+- First Prize, Wuxi Outstanding Achievement Award in Philosophy and
+  Social Sciences, 2023
+- Jiangsu Province "333 High-Level Talent Project" (2022); Jiangsu
+  "Zijin Cultural Talent Program" Young Scholar in Social Sciences (2020)
 
 ## Academic Service
 
-- Co-organizer, Taihu Finance Forum, Jiangnan University (2025, 2026)
-- [Reviewer for ... / Member of ...]
+- Co-founder and Co-Organizer, Great Lake Finance Forum, Wuxi (2025– )
+- Member, Program Committee and Technology Committee, The Modern
+  Risk Society International
+- Reviewer for *British Journal of Management*, *International Review
+  of Economics and Finance*, *Emerging Markets Finance and Trade*,
+  *North American Journal of Economics and Finance*, *Asia-Pacific
+  Journal of Financial Studies*, and leading Chinese journals
+- Grant Reviewer, National Natural Science Foundation of China
 
 ## Links
 
-- [Google Scholar](Scholar主页链接)
-- [SSRN Author Page](SSRN链接)
 - [ORCID](https://orcid.org/0000-0002-3626-0563)
+- [SSRN Author Page](SSRN链接建好后填)
+- [Google Scholar](Scholar主页链接建好后填)
 
 ---
 
-*Last updated: August 2025*
+*Last updated: August 2026*
