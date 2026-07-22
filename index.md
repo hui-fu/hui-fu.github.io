@@ -25,18 +25,21 @@ Email: fuhui@jiangnan.edu.cn · hui_fu@hotmail.com
 
 I am an Associate Professor of Finance at the School of Business,
 Jiangnan University. I received my Ph.D. in Finance from Jinan
-University (Guangzhou). My research centers on venture capital,
+University in Guangzhou, China. My research centers on venture capital,
 with a focus on two-sided matching, contract design, and how
 capital markets shape VC behavior and exit performance. My work
 has appeared in the *Journal of Banking and Finance*, *British
 Journal of Management*, *Small Business Economics*,
 *Pacific-Basin Finance Journal*, and *International Review of
-Economics and Finance*, among others.
+Economics and Finance*, among others. My ongoing work develops 
+a comprehensive transaction-level database of China's venture 
+capital market.
 
 I lead the Technology Finance Research Team at the School of
 Business, and I am a co-founder and co-organizer—alongside 
 Prof. Tong Yu from the University of Cincinnati—of the **Great
-Lake Finance Forum**, an annual conference connecting academia 
+Lake Finance Forum**—named after Lake Taihu (literally "Great Lake"), 
+on whose shores the university sits—an annual conference connecting academia 
 and the investment community in China's Yangtze River Delta 
 (Taihu Lake region).
 
