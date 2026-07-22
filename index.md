@@ -60,7 +60,7 @@ connecting academia and the investment community.
 
 1. Fu, H., Yang, J., & An, Y. (2019). Made for each other: Perfect
    matching in venture capital markets. *Journal of Banking &
-   Finance*, 100(3), 346–358.
+   Finance*, 100, 346–358.
 2. Fu, H., Qi, Y., An, Y., & Zhang, M. (2023). Market capacity,
    information exchange and imperfect matching: Evidence from the
    Chinese venture capital market. *British Journal of Management*,
@@ -88,7 +88,7 @@ connecting academia and the investment community.
    62(10), 3771–3788.
 9. Fu, H., Chen, W., & He, X. (2018). On a class of estimation and
    test for long memory. *Physica A: Statistical Mechanics and its
-   Applications*, 509(11), 906–920.
+   Applications*, 509, 906–920.
 
 I have also published over ten papers in leading Chinese journals,
 including *Journal of Finance and Economics*, *Nankai Economic
