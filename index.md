@@ -113,10 +113,10 @@ Studies*, and *Quarterly Journal of Finance* (China).
 - Co-founder and Co-Organizer, Great Lake Finance Forum, Wuxi (2025– )
 - Member, Program Committee and Technology Committee, The Modern
   Risk Society International
-- Reviewer for *British Journal of Management*, *International Review
-  of Economics and Finance*, *Emerging Markets Finance and Trade*,
-  *North American Journal of Economics and Finance*, *Asia-Pacific
-  Journal of Financial Studies*, and leading Chinese journals
+- Reviewer for *British Journal of Management*, *Pacific-Basin Finance
+  Journal*,*International Review of Economics and Finance*,
+  *Emerging Markets Finance and Trade*, *North American Journal of
+  Economics and Finance*, and leading Chinese journals
 - Grant Reviewer, National Natural Science Foundation of China
 
 ## Links
