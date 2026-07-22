@@ -114,7 +114,7 @@ Studies*, and *Quarterly Journal of Finance* (China).
 - Member, Program Committee and Technology Committee, The Modern
   Risk Society International
 - Reviewer for *British Journal of Management*, *Pacific-Basin Finance
-  Journal*,*International Review of Economics and Finance*,
+  Journal*, *International Review of Economics and Finance*,
   *Emerging Markets Finance and Trade*, *North American Journal of
   Economics and Finance*, and leading Chinese journals
 - Grant Reviewer, National Natural Science Foundation of China
