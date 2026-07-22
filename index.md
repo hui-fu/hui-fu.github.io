@@ -122,9 +122,8 @@ Studies*, and *Quarterly Journal of Finance* (China).
 ## Links
 
 - [ORCID](https://orcid.org/0000-0002-3626-0563)
-- [SSRN Author Page](SSRN链接建好后填)
-- [Google Scholar](Scholar主页链接建好后填)
+- [ResearchGate](https://www.researchgate.net/profile/Hui-Fu-19)
 
 ---
 
-*Last updated: August 2026*
+*Last updated: July 2026*
