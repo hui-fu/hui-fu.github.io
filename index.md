@@ -1,7 +1,7 @@
 ---
 title: "Hui Fu (付辉), Ph.D."
 ---
-
+<!-- 注意：此CSS依赖index.md首个h1即姓名标题；若日后在姓名前新增任何h1标题，姓名会被隐藏 -->
 <style>
   .markdown-body > h1:first-child { display: none; }
 </style>
