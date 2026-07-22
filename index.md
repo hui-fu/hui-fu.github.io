@@ -10,6 +10,9 @@ Email: fuhui@jiangnan.edu.cn | hui_fu@hotmail.com
 
 ## About
 
+<img src="photo.jpg" alt="Hui Fu" width="160"
+     style="float: right; margin: 0 0 15px 20px; border-radius: 6px;">
+
 I am an Associate Professor of Finance at the School of Business,
 Jiangnan University. I received my Ph.D. in Finance from Jinan
 University (Guangzhou). My research centers on venture capital,
