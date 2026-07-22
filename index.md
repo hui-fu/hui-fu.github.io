@@ -28,10 +28,10 @@ Jiangnan University. I received my Ph.D. in Finance from Jinan
 University in Guangzhou, China. My research centers on venture capital,
 with a focus on two-sided matching, contract design, and how
 capital markets shape VC behavior and exit performance. My work
-has appeared in the *Journal of Banking and Finance*, *British
+has appeared in the *Journal of Banking & Finance*, *British
 Journal of Management*, *Small Business Economics*,
 *Pacific-Basin Finance Journal*, and *International Review of
-Economics and Finance*, among others. My ongoing work develops 
+Economics & Finance*, among others. My ongoing work develops 
 a comprehensive transaction-level database of China's venture 
 capital market.
 
@@ -40,7 +40,7 @@ Business. Together with Prof. Tong Yu (University of Cincinnati),
 I co-founded and co-organize the **Great Lake Finance Forum**—named 
 after Lake Taihu (literally "Great Lake"), on whose shores the university 
 sits—an annual conference held in China's Yangtze River Delta (Taihu Lake region), 
-connecting academia and the investment community from around the world.
+connecting academia and the investment community.
 
 ## Research Interests
 
@@ -52,14 +52,14 @@ connecting academia and the investment community from around the world.
 
 ## Education
 
-- Ph.D. in Finance, Jinan University, Guangzhou, 2015
-- M.A. in Quantitative Economics, Yunnan University of Finance and Economics, 2012
-- B.S. in Mathematics and Applied Mathematics, Zhejiang Gongshang University, 2009
+- Ph.D. in Finance, Jinan University, Guangzhou, China, 2015
+- M.A. in Quantitative Economics, Yunnan University of Finance and Economics, Kunmin, China, 2012
+- B.S. in Mathematics and Applied Mathematics, Zhejiang Gongshang University, Hangzhou, China, 2009
 
 ## Selected Publications (English)
 
 1. Fu, H., Yang, J., & An, Y. (2019). Made for each other: Perfect
-   matching in venture capital markets. *Journal of Banking and
+   matching in venture capital markets. *Journal of Banking &
    Finance*, 100(3), 346–358.
 2. Fu, H., Qi, Y., An, Y., & Zhang, M. (2023). Market capacity,
    information exchange and imperfect matching: Evidence from the
@@ -71,7 +71,7 @@ connecting academia and the investment community from around the world.
 4. Fu, H., Liu, Q., An, Y., Yang, J., & Xiong, H. (2025). Exit
    disruption and matching in venture capital markets: Evidence based
    on IPO suspensions in China. *International Review of Economics
-   and Finance*, 98(3), 103850.
+   & Finance*, 98(3), 103850.
 5. Sun, Y., & Fu, H. (corresponding author) (2025). Economic policy
    uncertainty and herding behavior in venture capital market:
    Evidence from China. *Pacific-Basin Finance Journal*, 92(9), 102803.
@@ -130,7 +130,7 @@ Studies*, and *Quarterly Journal of Finance* (China).
 - Member, Program Committee and Technology Committee, The Modern
   Risk Society International
 - Reviewer for *British Journal of Management*, *Pacific-Basin Finance
-  Journal*, *International Review of Economics and Finance*,
+  Journal*, *International Review of Economics & Finance*,
   *International Review of Financial Analysis*, *Emerging Markets Finance
    and Trade*, and leading Chinese journals
 - Grant Reviewer, National Natural Science Foundation of China
