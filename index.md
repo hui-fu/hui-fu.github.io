@@ -1,10 +1,14 @@
+---
+title: "Hui Fu (付辉), Ph.D."
+---
+
 # Hui Fu (付辉), Ph.D.
 
-Associate Professor of Finance
-School of Business, Jiangnan University
+Associate Professor of Finance<br>
+School of Business, Jiangnan University<br>
 1800 Lihu Avenue, Wuxi, Jiangsu 214122, China
 
-Email: fuhui@jiangnan.edu.cn | hui_fu@hotmail.com
+Email: fuhui@jiangnan.edu.cn · hui_fu@hotmail.com
 
 ---
 
