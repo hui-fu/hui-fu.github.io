@@ -24,18 +24,17 @@ Email: fuhui@jiangnan.edu.cn · hui_fu@hotmail.com
      style="float: right; margin: 0 0 15px 20px; border-radius: 6px;">
 
 I am an associate professor of finance at the School of Business,
-Jiangnan University. I received my Ph.D. in Finance from Jinan
-University in Guangzhou, China. My key research interests are in 
-venture capital, private equity, and financial innovations. My work
-has appeared in the *Journal of Banking & Finance*, *British
-Journal of Management*, *Small Business Economics*,
+Jiangnan University, where I lead the Technological Finance Research 
+Team. I received my Ph.D. in Finance from Jinan University in Guangzhou, 
+China. My key research interests are in venture capital, private equity, 
+and financial innovations. My work has appeared in the *Journal of Banking 
+& Finance*, *British Journal of Management*, *Small Business Economics*,
 *Pacific-Basin Finance Journal*, and *International Review of
 Economics & Finance*, among others. My ongoing work develops 
 a comprehensive transaction-level database of China's venture 
 capital market.
 
-I lead the Technology Finance Research Team at the School of
-Business. I serve as co-organizer, with Prof. Wenfeng Wu (Shanghai 
+I serve as co-organizer, with Prof. Wenfeng Wu (Shanghai 
 Jiao Tong University) and Prof. Tong Yu (University of Cincinnati), 
 of the Great Lake Finance Forum, an annual conference held in the 
 Lake Taihu region of eastern China.
@@ -43,7 +42,7 @@ Lake Taihu region of eastern China.
 ## Research Interests
 
 - **Venture Capital & Private Equity** *(matching, contract design, syndication, exit)*
-- **Financial Innovations & Entrepreneurial Finance** *(revenue-based financing, technology finance)*
+- **Financial Innovations & Entrepreneurial Finance** *(revenue-based financing, technological finance)*
 - **Corporate Finance & Financial Econometrics** *(long memory in time series)*
 
 ## Education
