@@ -36,11 +36,9 @@ a comprehensive transaction-level database of China's venture
 capital market.
 
 I lead the Technology Finance Research Team at the School of
-Business. Together with Prof. Tong Yu (University of Cincinnati), 
-I co-founded and co-organize the **Great Lake Finance Forum**—named 
-after Lake Taihu (literally "Great Lake"), on whose shores the university 
-sits—an annual conference held in China's Yangtze River Delta (Taihu Lake region), 
-connecting academia and the investment community.
+Business. I serve as co-organizer, with Prof. Tong Yu (University 
+of Cincinnati), of the Great Lake Finance Forum, an annual conference
+held in the Lake Taihu region of eastern China.
 
 ## Research Interests
 
