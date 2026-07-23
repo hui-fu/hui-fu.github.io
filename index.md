@@ -124,7 +124,7 @@ Studies*, and *Quarterly Journal of Finance* (China).
 
 ## Academic Service
 
-- Co-founder and Co-organizer, Great Lake Finance Forum, Wuxi, China (2025– )
+- Co-organizer, Great Lake Finance Forum, China (2025– )
 - Member, Program Committee and Technology Committee, The Modern
   Risk Society International
 - Reviewer for *British Journal of Management*, *Pacific-Basin Finance
