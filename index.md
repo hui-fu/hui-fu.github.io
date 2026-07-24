@@ -79,9 +79,9 @@ Lake Taihu region of eastern China.
    60(14), 3431–3457.
 8. Fu, H., Song, Y., Xu, X., An, Y., & Yang, J. (2026).
    Economic policy uncertainty and matching in venture capital
-   markets: Evidence from China. *Emerging Markets Finance and Trade*,
-   62(10), 3771–3788.
-9. Fu, H., Chen, W., & He, X. (2018). On a class of estimation and
+   markets: Evidence from China’s Venture Capital Market. *Emerging
+   Markets Finance and Trade*, 62(10), 3771–3788.
+10. Fu, H., Chen, W., & He, X. (2018). On a class of estimation and
    test for long memory. *Physica A: Statistical Mechanics and its
    Applications*, 509, 906–920.
 
