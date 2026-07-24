@@ -135,7 +135,7 @@ Studies*, and *Quarterly Journal of Finance* (China).
 - [Google Scholar](https://scholar.google.com/citations?user=0jeq8X8AAAAJ&hl=en)
 - [ORCID](https://orcid.org/0000-0002-3626-0563)
 - [ResearchGate](https://www.researchgate.net/profile/Hui-Fu-19)
-- [Faculty Profile](https://busi.jiangnan.edu.cn/info/1102/10301.htm#) *(Jiangnan University - Chinese)*
+- [Faculty Profile](https://busi.jiangnan.edu.cn/info/1102/10301.htm) *(Jiangnan University - Chinese)*
 
 ---
 
