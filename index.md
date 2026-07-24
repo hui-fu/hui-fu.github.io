@@ -85,8 +85,8 @@ Lake Taihu region of eastern China.
    test for long memory. *Physica A: Statistical Mechanics and its
    Applications*, 509, 906–920.
 
-I have also published over ten papers in leading Chinese journals,
-including *Journal of Finance and Economics*, *Nankai Economic
+I have also published more than 10 papers in leading Chinese journals,
+including *Economic Review*, *Journal of Finance and Economics*, *Nankai Economic
 Studies*, and *Quarterly Journal of Finance* (China).
 
 ## Books
