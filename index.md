@@ -41,9 +41,9 @@ Lake Taihu region of eastern China.
 
 ## Research Interests
 
-- **Venture Capital & Private Equity** *(matching, contract design, syndication, exit)*
-- **Financial Innovations & Entrepreneurial Finance** *(revenue-based financing, technological finance)*
-- **Corporate Finance & Financial Econometrics** *(long memory in time series)*
+- Venture Capital & Private Equity *(matching, contract design, syndication, exit)*
+- Financial Innovations & Entrepreneurial Finance *(revenue-based financing, technological finance)*
+- Corporate Finance & Financial Econometrics *(long memory in time series)*
 
 ## Education
 
